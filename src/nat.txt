@@ -1,0 +1,3 @@
+m = 'milo'
+a = 'anna'
+x = m+a
