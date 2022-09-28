@@ -1,0 +1,3 @@
+m = "milo"
+a = "anne-marie"
+x = m+a
